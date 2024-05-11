@@ -1,0 +1,661 @@
+year,gdp,country_name,cca3,area,country_id,cat_name,cat_id
+2000,769072709005.904,China,CHN,9706961,1,Final consumption expenditure,1
+2010,2977444458192.0386,China,CHN,9706961,1,Final consumption expenditure,1
+2015,5972230854685.052,China,CHN,9706961,1,Final consumption expenditure,1
+2016,6182667931848.642,China,CHN,9706961,1,Final consumption expenditure,1
+2017,6754483542730.149,China,CHN,9706961,1,Final consumption expenditure,1
+2018,7650215780302.177,China,CHN,9706961,1,Final consumption expenditure,1
+2019,7999438352172.541,China,CHN,9706961,1,Final consumption expenditure,1
+2020,8126791965333.999,China,CHN,9706961,1,Final consumption expenditure,1
+2021,9609095750569.078,China,CHN,9706961,1,Final consumption expenditure,1
+2022,9523793108280.977,China,CHN,9706961,1,Final consumption expenditure,1
+2000,567587732728.7687,China,CHN,9706961,1,Household consumption expenditure (including Non-profit institutions serving households),2
+2010,2089503377193.9656,China,CHN,9706961,1,Household consumption expenditure (including Non-profit institutions serving households),2
+2015,4178281385380.619,China,CHN,9706961,1,Household consumption expenditure (including Non-profit institutions serving households),2
+2016,4344479843407.554,China,CHN,9706961,1,Household consumption expenditure (including Non-profit institutions serving households),2
+2017,4744808709644.355,China,CHN,9706961,1,Household consumption expenditure (including Non-profit institutions serving households),2
+2018,5352573943678.5205,China,CHN,9706961,1,Household consumption expenditure (including Non-profit institutions serving households),2
+2019,5604609462899.329,China,CHN,9706961,1,Household consumption expenditure (including Non-profit institutions serving households),2
+2020,5610767395592.828,China,CHN,9706961,1,Household consumption expenditure (including Non-profit institutions serving households),2
+2021,6792012494355.491,China,CHN,9706961,1,Household consumption expenditure (including Non-profit institutions serving households),2
+2022,6648355174825.411,China,CHN,9706961,1,Household consumption expenditure (including Non-profit institutions serving households),2
+2000,1211331153323.29,China,CHN,9706961,1,Gross Domestic Product (GDP),9
+2010,6087187942641.642,China,CHN,9706961,1,Gross Domestic Product (GDP),9
+2015,11061569698044.3,China,CHN,9706961,1,Gross Domestic Product (GDP),9
+2016,11233313123450.404,China,CHN,9706961,1,Gross Domestic Product (GDP),9
+2017,12310491937814.248,China,CHN,9706961,1,Gross Domestic Product (GDP),9
+2018,13894905534554.94,China,CHN,9706961,1,Gross Domestic Product (GDP),9
+2019,14279965557538.28,China,CHN,9706961,1,Gross Domestic Product (GDP),9
+2020,14687743556969.611,China,CHN,9706961,1,Gross Domestic Product (GDP),9
+2021,17820459342451.18,China,CHN,9706961,1,Gross Domestic Product (GDP),9
+2022,17963170521079.832,China,CHN,9706961,1,Gross Domestic Product (GDP),9
+2000,180510871277.5707,China,CHN,9706961,1,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2010,598525698582.5359,China,CHN,9706961,1,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2015,961103313758.6648,China,CHN,9706961,1,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2016,939893270818.536,China,CHN,9706961,1,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2017,956685057736.7676,China,CHN,9706961,1,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2018,1021147782383.5552,China,CHN,9706961,1,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2019,1065037630274.6924,China,CHN,9706961,1,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2020,1179528258551.114,China,CHN,9706961,1,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2021,1348970922798.9282,China,CHN,9706961,1,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2022,1374205539721.4802,China,CHN,9706961,1,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2000,486316116891.0847,China,CHN,9706961,1,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2010,2398374411879.957,China,CHN,9706961,1,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2015,3773092370594.232,China,CHN,9706961,1,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2016,3693388800432.3706,China,CHN,9706961,1,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2017,4070561760052.569,China,CHN,9706961,1,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2018,4550955998182.572,China,CHN,9706961,1,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2019,4514204109235.144,China,CHN,9706961,1,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2020,4534320428182.949,China,CHN,9706961,1,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2021,5807831314771.4375,China,CHN,9706961,1,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2022,5961627934224.605,China,CHN,9706961,1,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2000,1211332361270.982,China,CHN,9706961,1,Total Value Added,17
+2010,6039681706384.837,China,CHN,9706961,1,Total Value Added,17
+2015,11061571303828.031,China,CHN,9706961,1,Total Value Added,17
+2016,11233313123450.404,China,CHN,9706961,1,Total Value Added,17
+2017,12310491937814.248,China,CHN,9706961,1,Total Value Added,17
+2018,13894904023057.855,China,CHN,9706961,1,Total Value Added,17
+2019,14279967005054.592,China,CHN,9706961,1,Total Value Added,17
+2020,14687740658741.166,China,CHN,9706961,1,Total Value Added,17
+2021,17820459342451.18,China,CHN,9706961,1,Total Value Added,17
+2022,17963170521079.832,China,CHN,9706961,1,Total Value Added,17
+2000,360381289956.9786,India,IND,3287590,2,Final consumption expenditure,1
+2010,1097482311893.5944,India,IND,3287590,2,Final consumption expenditure,1
+2015,1490614112100.8022,India,IND,3287590,2,Final consumption expenditure,1
+2016,1594339071186.6333,India,IND,3287590,2,Final consumption expenditure,1
+2017,1823707884482.622,India,IND,3287590,2,Final consumption expenditure,1
+2018,1937319777803.4373,India,IND,3287590,2,Final consumption expenditure,1
+2019,2053010040552.9224,India,IND,3287590,2,Final consumption expenditure,1
+2020,1950469899313.0627,India,IND,3287590,2,Final consumption expenditure,1
+2021,2295745834289.594,India,IND,3287590,2,Final consumption expenditure,1
+2022,2457103640867.452,India,IND,3287590,2,Final consumption expenditure,1
+2000,303491906158.5139,India,IND,3287590,2,Household consumption expenditure (including Non-profit institutions serving households),2
+2010,913697057785.4116,India,IND,3287590,2,Household consumption expenditure (including Non-profit institutions serving households),2
+2015,1266743883972.131,India,IND,3287590,2,Household consumption expenditure (including Non-profit institutions serving households),2
+2016,1358212393585.1917,India,IND,3287590,2,Household consumption expenditure (including Non-profit institutions serving households),2
+2017,1541141155706.3457,India,IND,3287590,2,Household consumption expenditure (including Non-profit institutions serving households),2
+2018,1638252963561.329,India,IND,3287590,2,Household consumption expenditure (including Non-profit institutions serving households),2
+2019,1738904096283.0032,India,IND,3287590,2,Household consumption expenditure (including Non-profit institutions serving households),2
+2020,1639699601360.336,India,IND,3287590,2,Household consumption expenditure (including Non-profit institutions serving households),2
+2021,1940573813289.08,India,IND,3287590,2,Household consumption expenditure (including Non-profit institutions serving households),2
+2022,2098446650778.1328,India,IND,3287590,2,Household consumption expenditure (including Non-profit institutions serving households),2
+2000,476148034906.9642,India,IND,3287590,2,Gross Domestic Product (GDP),9
+2010,1669619794642.4412,India,IND,3287590,2,Gross Domestic Product (GDP),9
+2015,2146758604758.9875,India,IND,3287590,2,Gross Domestic Product (GDP),9
+2016,2290590963528.467,India,IND,3287590,2,Gross Domestic Product (GDP),9
+2017,2624329038244.961,India,IND,3287590,2,Gross Domestic Product (GDP),9
+2018,2763196673222.01,India,IND,3287590,2,Gross Domestic Product (GDP),9
+2019,2854814212130.795,India,IND,3287590,2,Gross Domestic Product (GDP),9
+2020,2676119157952.736,India,IND,3287590,2,Gross Domestic Product (GDP),9
+2021,3175276377978.999,India,IND,3287590,2,Gross Domestic Product (GDP),9
+2022,3465541446546.1,India,IND,3287590,2,Gross Domestic Product (GDP),9
+2000,100394054485.237,India,IND,3287590,2,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2010,285486249761.08923,India,IND,3287590,2,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2015,347227644556.0849,India,IND,3287590,2,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2016,374827747951.7241,India,IND,3287590,2,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2017,434545099302.3966,India,IND,3287590,2,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2018,442985485787.85895,India,IND,3287590,2,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2019,478340345245.3447,India,IND,3287590,2,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2020,498709022556.2875,India,IND,3287590,2,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2021,550156699985.1527,India,IND,3287590,2,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2022,579814075022.6007,India,IND,3287590,2,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2000,98618437862.19916,India,IND,3287590,2,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2010,376204306392.5357,India,IND,3287590,2,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2015,432592431508.57886,India,IND,3287590,2,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2016,448877062562.0901,India,IND,3287590,2,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2017,511113332694.818,India,IND,3287590,2,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2018,532133752932.872,India,IND,3287590,2,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2019,506066536426.90765,India,IND,3287590,2,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2020,489141239955.8623,India,IND,3287590,2,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2021,592778922634.273,India,IND,3287590,2,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2022,631165721347.9241,India,IND,3287590,2,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2000,418921856853.4657,India,IND,3287590,2,Total Value Added,17
+2010,1549162448026.068,India,IND,3287590,2,Total Value Added,17
+2015,1960111609103.1355,India,IND,3287590,2,Total Value Added,17
+2016,2078303626246.5044,India,IND,3287590,2,Total Value Added,17
+2017,2381033723016.241,India,IND,3287590,2,Total Value Added,17
+2018,2511062955651.9844,India,IND,3287590,2,Total Value Added,17
+2019,2609227744346.6323,India,IND,3287590,2,Total Value Added,17
+2020,2458870175220.291,India,IND,3287590,2,Total Value Added,17
+2021,2900359625945.3643,India,IND,3287590,2,Total Value Added,17
+2022,3147768125775.9907,India,IND,3287590,2,Total Value Added,17
+2000,8204768000000.0,United States,USA,9372610,3,Final consumption expenditure,1
+2010,12771302000000.0,United States,USA,9372610,3,Final consumption expenditure,1
+2015,14901300000000.0,United States,USA,9372610,3,Final consumption expenditure,1
+2016,15380200000000.0,United States,USA,9372610,3,Final consumption expenditure,1
+2017,16006300000000.0,United States,USA,9372610,3,Final consumption expenditure,1
+2018,16794100000000.0,United States,USA,9372610,3,Final consumption expenditure,1
+2019,17432500000000.0,United States,USA,9372610,3,Final consumption expenditure,1
+2020,17384500000000.0,United States,USA,9372610,3,Final consumption expenditure,1
+2021,19409300000000.0,United States,USA,9372610,3,Final consumption expenditure,1
+2022,21081800000000.0,United States,USA,9372610,3,Final consumption expenditure,1
+2000,6767180000000.0,United States,USA,9372610,3,Household consumption expenditure (including Non-profit institutions serving households),2
+2010,10260256000000.0,United States,USA,9372610,3,Household consumption expenditure (including Non-profit institutions serving households),2
+2015,12297400000000.0,United States,USA,9372610,3,Household consumption expenditure (including Non-profit institutions serving households),2
+2016,12726800000000.0,United States,USA,9372610,3,Household consumption expenditure (including Non-profit institutions serving households),2
+2017,13290600000000.0,United States,USA,9372610,3,Household consumption expenditure (including Non-profit institutions serving households),2
+2018,13934400000000.0,United States,USA,9372610,3,Household consumption expenditure (including Non-profit institutions serving households),2
+2019,14417600000000.0,United States,USA,9372610,3,Household consumption expenditure (including Non-profit institutions serving households),2
+2020,14206200000000.0,United States,USA,9372610,3,Household consumption expenditure (including Non-profit institutions serving households),2
+2021,16043000000000.0,United States,USA,9372610,3,Household consumption expenditure (including Non-profit institutions serving households),2
+2022,17511700000000.0,United States,USA,9372610,3,Household consumption expenditure (including Non-profit institutions serving households),2
+2000,10250952000000.0,United States,USA,9372610,3,Gross Domestic Product (GDP),9
+2010,15048970000000.0,United States,USA,9372610,3,Gross Domestic Product (GDP),9
+2015,18295000000000.0,United States,USA,9372610,3,Gross Domestic Product (GDP),9
+2016,18804900000000.0,United States,USA,9372610,3,Gross Domestic Product (GDP),9
+2017,19612100000000.0,United States,USA,9372610,3,Gross Domestic Product (GDP),9
+2018,20656500000000.0,United States,USA,9372610,3,Gross Domestic Product (GDP),9
+2019,21521400000000.0,United States,USA,9372610,3,Gross Domestic Product (GDP),9
+2020,21323000000000.0,United States,USA,9372610,3,Gross Domestic Product (GDP),9
+2021,23594000000000.0,United States,USA,9372610,3,Gross Domestic Product (GDP),9
+2022,25744100000000.0,United States,USA,9372610,3,Gross Domestic Product (GDP),9
+2000,98300000000.0,United States,USA,9372610,3,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2010,144900000000.0,United States,USA,9372610,3,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2015,180980189907.0,United States,USA,9372610,3,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2016,166773722492.0,United States,USA,9372610,3,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2017,176840000000.0,United States,USA,9372610,3,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2018,177117000000.0,United States,USA,9372610,3,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2019,162043000000.0,United States,USA,9372610,3,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2020,160778000000.0,United States,USA,9372610,3,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2021,225670000000.0,United States,USA,9372610,3,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2022,270820000000.0,United States,USA,9372610,3,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2000,1866500000000.0,United States,USA,9372610,3,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2010,2433100000000.0,United States,USA,9372610,3,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2015,2753190029476.0,United States,USA,9372610,3,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2016,2686787033463.0,United States,USA,9372610,3,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2017,2743890000000.0,United States,USA,9372610,3,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2018,2952638000000.0,United States,USA,9372610,3,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2019,2951622000000.0,United States,USA,9372610,3,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2020,2755294000000.0,United States,USA,9372610,3,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2021,3149949000000.0,United States,USA,9372610,3,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2022,3616564000000.0,United States,USA,9372610,3,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2000,10250800000000.0,United States,USA,9372610,3,Total Value Added,17
+2010,15048900000000.0,United States,USA,9372610,3,Total Value Added,17
+2015,18294976887595.0,United States,USA,9372610,3,Total Value Added,17
+2016,18804893964763.0,United States,USA,9372610,3,Total Value Added,17
+2017,19612104000000.0,United States,USA,9372610,3,Total Value Added,17
+2018,20656518000000.0,United States,USA,9372610,3,Total Value Added,17
+2019,21521394000000.0,United States,USA,9372610,3,Total Value Added,17
+2020,21322949000000.0,United States,USA,9372610,3,Total Value Added,17
+2021,23594031000000.0,United States,USA,9372610,3,Total Value Added,17
+2022,25744109000000.0,United States,USA,9372610,3,Total Value Added,17
+2000,3437014682141.864,Japan,JPN,377930,11,Final consumption expenditure,1
+2010,4313328083458.765,Japan,JPN,377930,11,Final consumption expenditure,1
+2015,3294315417441.3154,Japan,JPN,377930,11,Final consumption expenditure,1
+2016,3653736593370.348,Japan,JPN,377930,11,Final consumption expenditure,1
+2017,3583519911829.842,Japan,JPN,377930,11,Final consumption expenditure,1
+2018,3684484565902.3247,Japan,JPN,377930,11,Final consumption expenditure,1
+2019,3746431994126.191,Japan,JPN,377930,11,Final consumption expenditure,1
+2020,3709578549569.6846,Japan,JPN,377930,11,Final consumption expenditure,1
+2021,3676048340385.303,Japan,JPN,377930,11,Final consumption expenditure,1
+2022,3201966191910.264,Japan,JPN,377930,11,Final consumption expenditure,1
+2000,2666457302607.016,Japan,JPN,377930,11,Household consumption expenditure (including Non-profit institutions serving households),2
+2010,3275101496783.8584,Japan,JPN,377930,11,Household consumption expenditure (including Non-profit institutions serving households),2
+2015,2478973235600.477,Japan,JPN,377930,11,Household consumption expenditure (including Non-profit institutions serving households),2
+2016,2737086702090.0376,Japan,JPN,377930,11,Household consumption expenditure (including Non-profit institutions serving households),2
+2017,2692912469722.2896,Japan,JPN,377930,11,Household consumption expenditure (including Non-profit institutions serving households),2
+2018,2761125896024.877,Japan,JPN,377930,11,Household consumption expenditure (including Non-profit institutions serving households),2
+2019,2792100108597.713,Japan,JPN,377930,11,Household consumption expenditure (including Non-profit institutions serving households),2
+2020,2726763184934.7485,Japan,JPN,377930,11,Household consumption expenditure (including Non-profit institutions serving households),2
+2021,2678585131918.2217,Japan,JPN,377930,11,Household consumption expenditure (including Non-profit institutions serving households),2
+2022,2347021782653.932,Japan,JPN,377930,11,Household consumption expenditure (including Non-profit institutions serving households),2
+2000,4968359152795.656,Japan,JPN,377930,11,Gross Domestic Product (GDP),9
+2010,5759071769013.113,Japan,JPN,377930,11,Gross Domestic Product (GDP),9
+2015,4444930651964.18,Japan,JPN,377930,11,Gross Domestic Product (GDP),9
+2016,5003677627544.24,Japan,JPN,377930,11,Gross Domestic Product (GDP),9
+2017,4930837369151.422,Japan,JPN,377930,11,Gross Domestic Product (GDP),9
+2018,5040880939324.859,Japan,JPN,377930,11,Gross Domestic Product (GDP),9
+2019,5117993853016.508,Japan,JPN,377930,11,Gross Domestic Product (GDP),9
+2020,5048789595589.434,Japan,JPN,377930,11,Gross Domestic Product (GDP),9
+2021,5005536736792.294,Japan,JPN,377930,11,Gross Domestic Product (GDP),9
+2022,4232173916086.673,Japan,JPN,377930,11,Gross Domestic Product (GDP),9
+2000,75413746752.80682,Japan,JPN,377930,11,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2010,63826702874.66233,Japan,JPN,377930,11,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2015,45965919991.16689,Japan,JPN,377930,11,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2016,56290438046.634415,Japan,JPN,377930,11,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2017,55641568300.40688,Japan,JPN,377930,11,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2018,52639310285.08821,Japan,JPN,377930,11,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2019,53173266353.01716,Japan,JPN,377930,11,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2020,51905611640.58734,Japan,JPN,377930,11,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2021,47598124768.582695,Japan,JPN,377930,11,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2022,42574784524.144936,Japan,JPN,377930,11,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2000,1284156823290.0308,Japan,JPN,377930,11,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2010,1364578156439.6167,Japan,JPN,377930,11,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2015,1040074462895.4434,Japan,JPN,377930,11,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2016,1163402206812.3308,Japan,JPN,377930,11,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2017,1155588475718.2725,Japan,JPN,377930,11,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2018,1190444803205.5562,Japan,JPN,377930,11,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2019,1195005038529.9705,Japan,JPN,377930,11,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2020,1175277836176.0632,Japan,JPN,377930,11,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2021,1166622831072.6035,Japan,JPN,377930,11,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2022,986578241155.1532,Japan,JPN,377930,11,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2000,4970949963438.376,Japan,JPN,377930,11,Total Value Added,17
+2010,5758406468453.048,Japan,JPN,377930,11,Total Value Added,17
+2015,4418854189436.076,Japan,JPN,377930,11,Total Value Added,17
+2016,4985764693895.435,Japan,JPN,377930,11,Total Value Added,17
+2017,4908483029634.92,Japan,JPN,377930,11,Total Value Added,17
+2018,5013729936991.012,Japan,JPN,377930,11,Total Value Added,17
+2019,5090905429475.374,Japan,JPN,377930,11,Total Value Added,17
+2020,5023498932373.699,Japan,JPN,377930,11,Total Value Added,17
+2021,4987566601940.151,Japan,JPN,377930,11,Total Value Added,17
+2022,4212576008272.1816,Japan,JPN,377930,11,Total Value Added,17
+2000,1464037939900.8552,Germany,DEU,357114,18,Final consumption expenditure,1
+2010,2536121849372.724,Germany,DEU,357114,18,Final consumption expenditure,1
+2015,2438701430968.326,Germany,DEU,357114,18,Final consumption expenditure,1
+2016,2519334624931.8115,Germany,DEU,357114,18,Final consumption expenditure,1
+2017,2655523466630.593,Germany,DEU,357114,18,Final consumption expenditure,1
+2018,2860905995316.861,Germany,DEU,357114,18,Final consumption expenditure,1
+2019,2807732748023.525,Germany,DEU,357114,18,Final consumption expenditure,1
+2020,2807876685375.884,Germany,DEU,357114,18,Final consumption expenditure,1
+2021,3054230515883.672,Germany,DEU,357114,18,Final consumption expenditure,1
+2022,2976308514182.689,Germany,DEU,357114,18,Final consumption expenditure,1
+2000,1093975574307.8052,Germany,DEU,357114,18,Household consumption expenditure (including Non-profit institutions serving households),2
+2010,1871685912574.68,Germany,DEU,357114,18,Household consumption expenditure (including Non-profit institutions serving households),2
+2015,1777799665055.329,Germany,DEU,357114,18,Household consumption expenditure (including Non-profit institutions serving households),2
+2016,1829260776347.627,Germany,DEU,357114,18,Household consumption expenditure (including Non-profit institutions serving households),2
+2017,1923242664100.004,Germany,DEU,357114,18,Household consumption expenditure (including Non-profit institutions serving households),2
+2018,2070673827945.0964,Germany,DEU,357114,18,Household consumption expenditure (including Non-profit institutions serving households),2
+2019,2020128695599.9968,Germany,DEU,357114,18,Household consumption expenditure (including Non-profit institutions serving households),2
+2020,1951631656694.1687,Germany,DEU,357114,18,Household consumption expenditure (including Non-profit institutions serving households),2
+2021,2111770996240.276,Germany,DEU,357114,18,Household consumption expenditure (including Non-profit institutions serving households),2
+2022,2081464577356.3213,Germany,DEU,357114,18,Household consumption expenditure (including Non-profit institutions serving households),2
+2000,1943143892310.144,Germany,DEU,357114,18,Gross Domestic Product (GDP),9
+2010,3396354075663.728,Germany,DEU,357114,18,Gross Domestic Product (GDP),9
+2015,3356235704119.753,Germany,DEU,357114,18,Gross Domestic Product (GDP),9
+2016,3467498002104.328,Germany,DEU,357114,18,Gross Domestic Product (GDP),9
+2017,3690849152517.653,Germany,DEU,357114,18,Gross Domestic Product (GDP),9
+2018,3974443355019.605,Germany,DEU,357114,18,Gross Domestic Product (GDP),9
+2019,3889177589254.896,Germany,DEU,357114,18,Gross Domestic Product (GDP),9
+2020,3887727161914.408,Germany,DEU,357114,18,Gross Domestic Product (GDP),9
+2021,4278503934689.8535,Germany,DEU,357114,18,Gross Domestic Product (GDP),9
+2022,4076923618911.544,Germany,DEU,357114,18,Gross Domestic Product (GDP),9
+2000,19330186006.55217,Germany,DEU,357114,18,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2010,27296388043.764404,Germany,DEU,357114,18,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2015,22979863652.97546,Germany,DEU,357114,18,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2016,24218085473.778416,Germany,DEU,357114,18,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2017,31436767778.823586,Germany,DEU,357114,18,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2018,27387516036.862724,Germany,DEU,357114,18,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2019,30757562156.862698,Germany,DEU,357114,18,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2020,28728516532.2958,Germany,DEU,357114,18,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2021,30460293945.735943,Germany,DEU,357114,18,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2022,37514372965.77121,Germany,DEU,357114,18,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2000,448159781217.5393,Germany,DEU,357114,18,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2010,779539017443.7244,Germany,DEU,357114,18,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2015,771338199460.7136,Germany,DEU,357114,18,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2016,809319214905.7458,Germany,DEU,357114,18,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2017,857703655148.2368,Germany,DEU,357114,18,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2018,910439165015.6855,Germany,DEU,357114,18,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2019,876514956941.175,Germany,DEU,357114,18,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2020,846253097120.6249,Germany,DEU,357114,18,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2021,953294603624.0156,Germany,DEU,357114,18,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2022,885298399209.3936,Germany,DEU,357114,18,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2000,1752172047039.4631,Germany,DEU,357114,18,Total Value Added,17
+2010,3053704278034.8804,Germany,DEU,357114,18,Total Value Added,17
+2015,3018901952735.148,Germany,DEU,357114,18,Total Value Added,17
+2016,3122050142453.0728,Germany,DEU,357114,18,Total Value Added,17
+2017,3325864979936.4766,Germany,DEU,357114,18,Total Value Added,17
+2018,3581523256244.703,Germany,DEU,357114,18,Total Value Added,17
+2019,3504589957733.328,Germany,DEU,357114,18,Total Value Added,17
+2020,3525247800150.9824,Germany,DEU,357114,18,Total Value Added,17
+2021,3875103148910.791,Germany,DEU,357114,18,Total Value Added,17
+2022,3690788376730.684,Germany,DEU,357114,18,Total Value Added,17
+2000,1037804620566.4452,France,FRA,551695,20,Final consumption expenditure,1
+2010,2096777146615.9192,France,FRA,551695,20,Final consumption expenditure,1
+2015,1898245426280.0776,France,FRA,551695,20,Final consumption expenditure,1
+2016,1927495897145.8047,France,FRA,551695,20,Final consumption expenditure,1
+2017,2014573998174.121,France,FRA,551695,20,Final consumption expenditure,1
+2018,2153317024541.1748,France,FRA,551695,20,Final consumption expenditure,1
+2019,2090116003003.9185,France,FRA,551695,20,Final consumption expenditure,1
+2020,2066073995830.356,France,FRA,551695,20,Final consumption expenditure,1
+2021,2278257070507.716,France,FRA,551695,20,Final consumption expenditure,1
+2022,2148134010903.0093,France,FRA,551695,20,Final consumption expenditure,1
+2000,733670894239.5343,France,FRA,551695,20,Household consumption expenditure (including Non-profit institutions serving households),2
+2010,1462834758499.0803,France,FRA,551695,20,Household consumption expenditure (including Non-profit institutions serving households),2
+2015,1317759874351.1511,France,FRA,551695,20,Household consumption expenditure (including Non-profit institutions serving households),2
+2016,1341000988256.4746,France,FRA,551695,20,Household consumption expenditure (including Non-profit institutions serving households),2
+2017,1400976370362.3557,France,FRA,551695,20,Household consumption expenditure (including Non-profit institutions serving households),2
+2018,1503816844193.7244,France,FRA,551695,20,Household consumption expenditure (including Non-profit institutions serving households),2
+2019,1462924811513.7231,France,FRA,551695,20,Household consumption expenditure (including Non-profit institutions serving households),2
+2020,1408333513315.179,France,FRA,551695,20,Household consumption expenditure (including Non-profit institutions serving households),2
+2021,1555883050503.851,France,FRA,551695,20,Household consumption expenditure (including Non-profit institutions serving households),2
+2022,1481804586921.543,France,FRA,551695,20,Household consumption expenditure (including Non-profit institutions serving households),2
+2000,1362247894595.0117,France,FRA,551695,20,Gross Domestic Product (GDP),9
+2010,2642609548930.356,France,FRA,551695,20,Gross Domestic Product (GDP),9
+2015,2438207896251.8413,France,FRA,551695,20,Gross Domestic Product (GDP),9
+2016,2471285607081.7163,France,FRA,551695,20,Gross Domestic Product (GDP),9
+2017,2595151045197.6514,France,FRA,551695,20,Gross Domestic Product (GDP),9
+2018,2790956878746.665,France,FRA,551695,20,Gross Domestic Product (GDP),9
+2019,2728870246705.878,France,FRA,551695,20,Gross Domestic Product (GDP),9
+2020,2647418691598.4507,France,FRA,551695,20,Gross Domestic Product (GDP),9
+2021,2959355819170.495,France,FRA,551695,20,Gross Domestic Product (GDP),9
+2022,2775316950606.4272,France,FRA,551695,20,Gross Domestic Product (GDP),9
+2000,28584831563.76186,France,FRA,551695,20,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2010,42388204722.983,France,FRA,551695,20,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2015,39148948218.45467,France,FRA,551695,20,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2016,35515212857.70547,France,FRA,551695,20,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2017,40027993125.88242,France,FRA,551695,20,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2018,46019435338.03919,France,FRA,551695,20,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2019,41545938007.84307,France,FRA,551695,20,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2020,41815799548.638245,France,FRA,551695,20,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2021,47859586647.28606,France,FRA,551695,20,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2022,53109869590.17586,France,FRA,551695,20,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2000,230743327541.8228,France,FRA,551695,20,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2010,328404288177.1869,France,FRA,551695,20,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2015,311417078901.8478,France,FRA,551695,20,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2016,310982384763.5238,France,FRA,551695,20,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2017,319625213983.53,France,FRA,551695,20,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2018,341092729157.6468,France,FRA,551695,20,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2019,336553219254.9014,France,FRA,551695,20,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2020,316213566174.31995,France,FRA,551695,20,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2021,338670591348.8318,France,FRA,551695,20,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2022,329163830877.6147,France,FRA,551695,20,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2000,1221983583637.692,France,FRA,551695,20,Total Value Added,17
+2010,2381035718816.6504,France,FRA,551695,20,Total Value Added,17
+2015,2182052287728.2173,France,FRA,551695,20,Total Value Added,17
+2016,2208753773237.941,France,FRA,551695,20,Total Value Added,17
+2017,2311475675292.9453,France,FRA,551695,20,Total Value Added,17
+2018,2482094760070.5864,France,FRA,551695,20,Total Value Added,17
+2019,2428440230933.3296,France,FRA,551695,20,Total Value Added,17
+2020,2363025566823.353,France,FRA,551695,20,Total Value Added,17
+2021,2623087373391.4307,France,FRA,551695,20,Total Value Added,17
+2022,2483059657424.9336,France,FRA,551695,20,Total Value Added,17
+2000,1350472628880.7332,United Kingdom,GBR,242900,22,Final consumption expenditure,1
+2010,2060226441321.197,United Kingdom,GBR,242900,22,Final consumption expenditure,1
+2015,2387410883276.018,United Kingdom,GBR,242900,22,Final consumption expenditure,1
+2016,2203657917635.768,United Kingdom,GBR,242900,22,Final consumption expenditure,1
+2017,2166203824905.0645,United Kingdom,GBR,242900,22,Final consumption expenditure,1
+2018,2325024937185.524,United Kingdom,GBR,242900,22,Final consumption expenditure,1
+2019,2304234179178.823,United Kingdom,GBR,242900,22,Final consumption expenditure,1
+2020,2150520397847.9573,United Kingdom,GBR,242900,22,Final consumption expenditure,1
+2021,2519282511667.792,United Kingdom,GBR,242900,22,Final consumption expenditure,1
+2022,2499257625667.884,United Kingdom,GBR,242900,22,Final consumption expenditure,1
+2000,1101575177432.8384,United Kingdom,GBR,242900,22,Household consumption expenditure (including Non-profit institutions serving households),2
+2010,1587065481997.083,United Kingdom,GBR,242900,22,Household consumption expenditure (including Non-profit institutions serving households),2
+2015,1876607568973.349,United Kingdom,GBR,242900,22,Household consumption expenditure (including Non-profit institutions serving households),2
+2016,1741000538326.795,United Kingdom,GBR,242900,22,Household consumption expenditure (including Non-profit institutions serving households),2
+2017,1720613294269.127,United Kingdom,GBR,242900,22,Household consumption expenditure (including Non-profit institutions serving households),2
+2018,1856599641844.364,United Kingdom,GBR,242900,22,Household consumption expenditure (including Non-profit institutions serving households),2
+2019,1822642048245.4192,United Kingdom,GBR,242900,22,Household consumption expenditure (including Non-profit institutions serving households),2
+2020,1597530354152.7527,United Kingdom,GBR,242900,22,Household consumption expenditure (including Non-profit institutions serving households),2
+2021,1883375082245.241,United Kingdom,GBR,242900,22,Household consumption expenditure (including Non-profit institutions serving households),2
+2022,1913506368485.9229,United Kingdom,GBR,242900,22,Household consumption expenditure (including Non-profit institutions serving households),2
+2000,1665457177188.234,United Kingdom,GBR,242900,22,Gross Domestic Product (GDP),9
+2010,2485482596184.709,United Kingdom,GBR,242900,22,Gross Domestic Product (GDP),9
+2015,2927911140916.7314,United Kingdom,GBR,242900,22,Gross Domestic Product (GDP),9
+2016,2689106566899.611,United Kingdom,GBR,242900,22,Gross Domestic Product (GDP),9
+2017,2680148052335.299,United Kingdom,GBR,242900,22,Gross Domestic Product (GDP),9
+2018,2871340347581.789,United Kingdom,GBR,242900,22,Gross Domestic Product (GDP),9
+2019,2851407164907.808,United Kingdom,GBR,242900,22,Gross Domestic Product (GDP),9
+2020,2697806592293.8604,United Kingdom,GBR,242900,22,Gross Domestic Product (GDP),9
+2021,3141506156618.7026,United Kingdom,GBR,242900,22,Gross Domestic Product (GDP),9
+2022,3089072722400.136,United Kingdom,GBR,242900,22,Gross Domestic Product (GDP),9
+2000,13653471051.559864,United Kingdom,GBR,242900,22,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2010,14581738531.58404,United Kingdom,GBR,242900,22,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2015,18479999311.50277,United Kingdom,GBR,242900,22,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2016,15567733565.14465,United Kingdom,GBR,242900,22,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2017,15921439683.723549,United Kingdom,GBR,242900,22,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2018,16398480675.813154,United Kingdom,GBR,242900,22,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2019,17243071438.39893,United Kingdom,GBR,242900,22,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2020,17807701971.860184,United Kingdom,GBR,242900,22,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2021,22290993560.34503,United Kingdom,GBR,242900,22,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2022,23607740038.437057,United Kingdom,GBR,242900,22,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2000,290671868085.03674,United Kingdom,GBR,242900,22,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2010,341073925665.7555,United Kingdom,GBR,242900,22,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2015,369468597346.0615,United Kingdom,GBR,242900,22,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2016,327208645936.1912,United Kingdom,GBR,242900,22,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2017,329215115393.75696,United Kingdom,GBR,242900,22,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2018,353662612160.5427,United Kingdom,GBR,242900,22,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2019,347596783131.1801,United Kingdom,GBR,242900,22,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2020,331187359221.2206,United Kingdom,GBR,242900,22,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2021,356943354092.32446,United Kingdom,GBR,242900,22,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2022,335582921480.9604,United Kingdom,GBR,242900,22,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2000,1494127600341.4382,United Kingdom,GBR,242900,22,Total Value Added,17
+2010,2238951242712.8184,United Kingdom,GBR,242900,22,Total Value Added,17
+2015,2611017958278.569,United Kingdom,GBR,242900,22,Total Value Added,17
+2016,2396094277251.748,United Kingdom,GBR,242900,22,Total Value Added,17
+2017,2389649667198.227,United Kingdom,GBR,242900,22,Total Value Added,17
+2018,2561814355554.5527,United Kingdom,GBR,242900,22,Total Value Added,17
+2019,2547348849965.523,United Kingdom,GBR,242900,22,Total Value Added,17
+2020,2433279525659.1675,United Kingdom,GBR,242900,22,Total Value Added,17
+2021,2814928728103.308,United Kingdom,GBR,242900,22,Total Value Added,17
+2022,2760144538478.175,United Kingdom,GBR,242900,22,Total Value Added,17
+2000,895452878007.4363,Italy,ITA,301336,25,Final consumption expenditure,1
+2010,1734493286192.6228,Italy,ITA,301336,25,Final consumption expenditure,1
+2015,1466497041845.035,Italy,ITA,301336,25,Final consumption expenditure,1
+2016,1484708457118.3855,Italy,ITA,301336,25,Final consumption expenditure,1
+2017,1551440413746.3557,Italy,ITA,301336,25,Final consumption expenditure,1
+2018,1654069686476.0771,Italy,ITA,301336,25,Final consumption expenditure,1
+2019,1577554075629.8013,Italy,ITA,301336,25,Final consumption expenditure,1
+2020,1493310162550.3542,Italy,ITA,301336,25,Final consumption expenditure,1
+2021,1637563214591.8342,Italy,ITA,301336,25,Final consumption expenditure,1
+2022,1613865317359.6726,Italy,ITA,301336,25,Final consumption expenditure,1
+2000,692583124053.2512,Italy,ITA,301336,25,Household consumption expenditure (including Non-profit institutions serving households),2
+2010,1295888936706.874,Italy,ITA,301336,25,Household consumption expenditure (including Non-profit institutions serving households),2
+2015,1115650420829.742,Italy,ITA,301336,25,Household consumption expenditure (including Non-profit institutions serving households),2
+2016,1127808608844.219,Italy,ITA,301336,25,Household consumption expenditure (including Non-profit institutions serving households),2
+2017,1182032409678.1196,Italy,ITA,301336,25,Household consumption expenditure (including Non-profit institutions serving households),2
+2018,1259094726854.1167,Italy,ITA,301336,25,Household consumption expenditure (including Non-profit institutions serving households),2
+2019,1203076418406.2725,Italy,ITA,301336,25,Household consumption expenditure (including Non-profit institutions serving households),2
+2020,1100978363283.4272,Italy,ITA,301336,25,Household consumption expenditure (including Non-profit institutions serving households),2
+2021,1218959484867.035,Italy,ITA,301336,25,Household consumption expenditure (including Non-profit institutions serving households),2
+2022,1220593794660.053,Italy,ITA,301336,25,Household consumption expenditure (including Non-profit institutions serving households),2
+2000,1143828954126.7815,Italy,ITA,301336,25,Gross Domestic Product (GDP),9
+2010,2134017843247.156,Italy,ITA,301336,25,Gross Domestic Product (GDP),9
+2015,1835899237320.0383,Italy,ITA,301336,25,Gross Domestic Product (GDP),9
+2016,1875797463583.867,Italy,ITA,301336,25,Gross Domestic Product (GDP),9
+2017,1961796197354.3564,Italy,ITA,301336,25,Gross Domestic Product (GDP),9
+2018,2091932426266.979,Italy,ITA,301336,25,Gross Domestic Product (GDP),9
+2019,2011302198827.448,Italy,ITA,301336,25,Gross Domestic Product (GDP),9
+2020,1897461635591.912,Italy,ITA,301336,25,Gross Domestic Product (GDP),9
+2021,2155360298998.028,Italy,ITA,301336,25,Gross Domestic Product (GDP),9
+2022,2046952679266.635,Italy,ITA,301336,25,Gross Domestic Product (GDP),9
+2000,29323360571.09479,Italy,ITA,301336,25,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2010,37889797057.25541,Italy,ITA,301336,25,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2015,37915665960.63089,Italy,ITA,301336,25,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2016,36172377586.85372,Italy,ITA,301336,25,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2017,38700052902.941246,Italy,ITA,301336,25,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2018,40696873362.35291,Italy,ITA,301336,25,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2019,38361480817.25484,Italy,ITA,301336,25,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2020,38104575951.4398,Italy,ITA,301336,25,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2021,40925653305.4257,Italy,ITA,301336,25,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2022,39353232399.17876,Italy,ITA,301336,25,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2000,228282485502.6683,Italy,ITA,301336,25,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2010,358611761175.837,Italy,ITA,301336,25,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2015,311231421123.107,Italy,ITA,301336,25,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2016,325634470274.88165,Italy,ITA,301336,25,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2017,343215555214.9418,Italy,ITA,301336,25,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2018,369602033883.37225,Italy,ITA,301336,25,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2019,355232211188.23474,Italy,ITA,301336,25,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2020,333309843313.4639,Italy,ITA,301336,25,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2021,385399123437.5907,Italy,ITA,301336,25,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2022,369248989483.84576,Italy,ITA,301336,25,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2000,1024926244605.4906,Italy,ITA,301336,25,Total Value Added,17
+2010,1919660804539.1096,Italy,ITA,301336,25,Total Value Added,17
+2015,1650345932669.8462,Italy,ITA,301336,25,Total Value Added,17
+2016,1684396715260.8423,Italy,ITA,301336,25,Total Value Added,17
+2017,1759812705013.0618,Italy,ITA,301336,25,Total Value Added,17
+2018,1877217063971.528,Italy,ITA,301336,25,Total Value Added,17
+2019,1803885961650.9773,Italy,ITA,301336,25,Total Value Added,17
+2020,1716326694093.39,Italy,ITA,301336,25,Total Value Added,17
+2021,1895049683138.7288,Italy,ITA,301336,25,Total Value Added,17
+2022,1802622250640.723,Italy,ITA,301336,25,Total Value Added,17
+2000,455508218545.9917,Spain,ESP,505992,30,Final consumption expenditure,1
+2010,1118418178645.566,Spain,ESP,505992,30,Final consumption expenditure,1
+2015,932317024243.6326,Spain,ESP,505992,30,Final consumption expenditure,1
+2016,952538207173.8312,Spain,ESP,505992,30,Final consumption expenditure,1
+2017,1011135822855.296,Spain,ESP,505992,30,Final consumption expenditure,1
+2018,1092110121076.862,Spain,ESP,505992,30,Final consumption expenditure,1
+2019,1062899626501.9592,Spain,ESP,505992,30,Final consumption expenditure,1
+2020,998109212001.5592,Spain,ESP,505992,30,Final consumption expenditure,1
+2021,1119636383573.6255,Spain,ESP,505992,30,Final consumption expenditure,1
+2022,1094570403811.9912,Spain,ESP,505992,30,Final consumption expenditure,1
+2000,355842733982.301,Spain,ESP,505992,30,Household consumption expenditure (including Non-profit institutions serving households),2
+2010,825281989314.4441,Spain,ESP,505992,30,Household consumption expenditure (including Non-profit institutions serving households),2
+2015,698950519887.0623,Spain,ESP,505992,30,Household consumption expenditure (including Non-profit institutions serving households),2
+2016,717079436359.6859,Spain,ESP,505992,30,Household consumption expenditure (including Non-profit institutions serving households),2
+2017,766039065127.0602,Spain,ESP,505992,30,Household consumption expenditure (including Non-profit institutions serving households),2
+2018,826046974790.5876,Spain,ESP,505992,30,Household consumption expenditure (including Non-profit institutions serving households),2
+2019,799903718862.7438,Spain,ESP,505992,30,Household consumption expenditure (including Non-profit institutions serving households),2
+2020,716733769346.3054,Spain,ESP,505992,30,Household consumption expenditure (including Non-profit institutions serving households),2
+2021,812699897484.483,Spain,ESP,505992,30,Household consumption expenditure (including Non-profit institutions serving households),2
+2022,806182013670.3623,Spain,ESP,505992,30,Household consumption expenditure (including Non-profit institutions serving households),2
+2000,596877190530.9961,Spain,ESP,505992,30,Gross Domestic Product (GDP),9
+2010,1420722034063.002,Spain,ESP,505992,30,Gross Domestic Product (GDP),9
+2015,1195676021494.3833,Spain,ESP,505992,30,Gross Domestic Product (GDP),9
+2016,1232717585351.6096,Spain,ESP,505992,30,Gross Domestic Product (GDP),9
+2017,1313245330197.6494,Spain,ESP,505992,30,Gross Domestic Product (GDP),9
+2018,1421702715218.038,Spain,ESP,505992,30,Gross Domestic Product (GDP),9
+2019,1394320055129.4094,Spain,ESP,505992,30,Gross Domestic Product (GDP),9
+2020,1278128867875.49,Spain,ESP,505992,30,Gross Domestic Product (GDP),9
+2021,1445651653604.628,Spain,ESP,505992,30,Gross Domestic Product (GDP),9
+2022,1415874440908.7024,Spain,ESP,505992,30,Gross Domestic Product (GDP),9
+2000,22354875042.323143,Spain,ESP,505992,30,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2010,34539665395.11557,Spain,ESP,505992,30,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2015,32690852366.559105,Spain,ESP,505992,30,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2016,34815018827.15364,Spain,ESP,505992,30,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2017,36600540436.47065,Spain,ESP,505992,30,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2018,39185251589.80389,Spain,ESP,505992,30,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2019,34424960650.98034,Spain,ESP,505992,30,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2020,35934631783.657684,Spain,ESP,505992,30,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2021,39477506069.76681,Spain,ESP,505992,30,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2022,33108093069.867268,Spain,ESP,505992,30,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2000,112081174312.71584,Spain,ESP,505992,30,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2010,213069433251.6587,Spain,ESP,505992,30,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2015,177439593911.1749,Spain,ESP,505992,30,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2016,180788328845.7509,Spain,ESP,505992,30,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2017,193139331378.82385,Spain,ESP,505992,30,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2018,206311571908.2352,Spain,ESP,505992,30,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2019,200162042352.9409,Spain,ESP,505992,30,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2020,187390978026.4597,Spain,ESP,505992,30,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2021,219328545841.08176,Spain,ESP,505992,30,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2022,224737100580.9184,Spain,ESP,505992,30,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2000,542645612488.78265,Spain,ESP,505992,30,Total Value Added,17
+2010,1305192488742.402,Spain,ESP,505992,30,Total Value Added,17
+2015,1085744213330.9382,Spain,ESP,505992,30,Total Value Added,17
+2016,1118615824467.7517,Spain,ESP,505992,30,Total Value Added,17
+2017,1190463672170.5903,Spain,ESP,505992,30,Total Value Added,17
+2018,1286555462070.5874,Spain,ESP,505992,30,Total Value Added,17
+2019,1264579676290.194,Spain,ESP,505992,30,Total Value Added,17
+2020,1166280456102.727,Spain,ESP,505992,30,Total Value Added,17
+2021,1307936920120.134,Spain,ESP,505992,30,Total Value Added,17
+2022,1288896811784.3774,Spain,ESP,505992,30,Total Value Added,17
+2000,548454996599.5785,Canada,CAN,9984670,36,Final consumption expenditure,1
+2010,1269129521696.8486,Canada,CAN,9984670,36,Final consumption expenditure,1
+2015,1224468436199.935,Canada,CAN,9984670,36,Final consumption expenditure,1
+2016,1215447745624.133,Canada,CAN,9984670,36,Final consumption expenditure,1
+2017,1297834327381.7542,Canada,CAN,9984670,36,Final consumption expenditure,1
+2018,1355604183936.4463,Canada,CAN,9984670,36,Final consumption expenditure,1
+2019,1367332792621.8694,Canada,CAN,9984670,36,Final consumption expenditure,1
+2020,1318065449676.812,Canada,CAN,9984670,36,Final consumption expenditure,1
+2021,1526284595205.397,Canada,CAN,9984670,36,Final consumption expenditure,1
+2022,1609256898475.6665,Canada,CAN,9984670,36,Final consumption expenditure,1
+2000,406156446323.8414,Canada,CAN,9984670,36,Household consumption expenditure (including Non-profit institutions serving households),2
+2010,921814509040.1936,Canada,CAN,9984670,36,Household consumption expenditure (including Non-profit institutions serving households),2
+2015,899582435353.5115,Canada,CAN,9984670,36,Household consumption expenditure (including Non-profit institutions serving households),2
+2016,893782499670.0804,Canada,CAN,9984670,36,Household consumption expenditure (including Non-profit institutions serving households),2
+2017,956328949283.2,Canada,CAN,9984670,36,Household consumption expenditure (including Non-profit institutions serving households),2
+2018,998770543697.526,Canada,CAN,9984670,36,Household consumption expenditure (including Non-profit institutions serving households),2
+2019,1007034676848.9204,Canada,CAN,9984670,36,Household consumption expenditure (including Non-profit institutions serving households),2
+2020,942306589080.9,Canada,CAN,9984670,36,Household consumption expenditure (including Non-profit institutions serving households),2
+2021,1088747226848.5466,Canada,CAN,9984670,36,Household consumption expenditure (including Non-profit institutions serving households),2
+2022,1160403718158.9883,Canada,CAN,9984670,36,Household consumption expenditure (including Non-profit institutions serving households),2
+2000,744773787800.2303,Canada,CAN,9984670,36,Gross Domestic Product (GDP),9
+2010,1617266734508.6785,Canada,CAN,9984670,36,Gross Domestic Product (GDP),9
+2015,1556128742617.2236,Canada,CAN,9984670,36,Gross Domestic Product (GDP),9
+2016,1528244722960.9153,Canada,CAN,9984670,36,Gross Domestic Product (GDP),9
+2017,1649518967467.839,Canada,CAN,9984670,36,Gross Domestic Product (GDP),9
+2018,1725383943649.224,Canada,CAN,9984670,36,Gross Domestic Product (GDP),9
+2019,1743645481080.9695,Canada,CAN,9984670,36,Gross Domestic Product (GDP),9
+2020,1647598402302.6787,Canada,CAN,9984670,36,Gross Domestic Product (GDP),9
+2021,2001486745423.924,Canada,CAN,9984670,36,Gross Domestic Product (GDP),9
+2022,2137939220074.9087,Canada,CAN,9984670,36,Gross Domestic Product (GDP),9
+2000,15567870393.438871,Canada,CAN,9984670,36,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2010,24149581417.28624,Canada,CAN,9984670,36,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2015,29095505611.69238,Canada,CAN,9984670,36,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2016,28459340840.857216,Canada,CAN,9984670,36,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2017,31175819946.36832,Canada,CAN,9984670,36,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2018,32333436825.237133,Canada,CAN,9984670,36,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2019,32700348958.94032,Canada,CAN,9984670,36,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2020,30971449882.080784,Canada,CAN,9984670,36,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2021,37555763217.3672,Canada,CAN,9984670,36,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2022,40133310765.42068,Canada,CAN,9984670,36,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2000,184288032536.3105,Canada,CAN,9984670,36,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2010,310037408926.9891,Canada,CAN,9984670,36,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2015,258527514689.533,Canada,CAN,9984670,36,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2016,242531377853.5099,Canada,CAN,9984670,36,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2017,274601196205.6408,Canada,CAN,9984670,36,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2018,282564891503.9332,Canada,CAN,9984670,36,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2019,284180555198.61255,Canada,CAN,9984670,36,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2020,270878072517.7284,Canada,CAN,9984670,36,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2021,327681946460.6821,Canada,CAN,9984670,36,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2022,349986203327.28906,Canada,CAN,9984670,36,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2000,691830234797.4225,Canada,CAN,9984670,36,Total Value Added,17
+2010,1513404508295.0542,Canada,CAN,9984670,36,Total Value Added,17
+2015,1451655112836.9763,Canada,CAN,9984670,36,Total Value Added,17
+2016,1423043999963.4802,Canada,CAN,9984670,36,Total Value Added,17
+2017,1534621222034.4724,Canada,CAN,9984670,36,Total Value Added,17
+2018,1607120491526.8496,Canada,CAN,9984670,36,Total Value Added,17
+2019,1623312910566.4946,Canada,CAN,9984670,36,Total Value Added,17
+2020,1533798432830.2063,Canada,CAN,9984670,36,Total Value Added,17
+2021,1863633985391.5671,Canada,CAN,9984670,36,Total Value Added,17
+2022,1990451734524.543,Canada,CAN,9984670,36,Total Value Added,17
+2000,15605748120.820667,Slovakia,SVK,49037,121,Final consumption expenditure,1
+2010,69072181547.01617,Slovakia,SVK,49037,121,Final consumption expenditure,1
+2015,64302812334.34558,Slovakia,SVK,49037,121,Final consumption expenditure,1
+2016,66368532753.84516,Slovakia,SVK,49037,121,Final consumption expenditure,1
+2017,71595404014.04013,Slovakia,SVK,49037,121,Final consumption expenditure,1
+2018,79370178810.24779,Slovakia,SVK,49037,121,Final consumption expenditure,1
+2019,80286475133.06654,Slovakia,SVK,49037,121,Final consumption expenditure,1
+2020,83772845352.5014,Slovakia,SVK,49037,121,Final consumption expenditure,1
+2021,92424576830.952,Slovakia,SVK,49037,121,Final consumption expenditure,1
+2022,94693038218.45874,Slovakia,SVK,49037,121,Final consumption expenditure,1
+2000,11307987277.190258,Slovakia,SVK,49037,121,Household consumption expenditure (including Non-profit institutions serving households),2
+2010,51589795941.74468,Slovakia,SVK,49037,121,Household consumption expenditure (including Non-profit institutions serving households),2
+2015,47818888109.8857,Slovakia,SVK,49037,121,Household consumption expenditure (including Non-profit institutions serving households),2
+2016,49396766363.76469,Slovakia,SVK,49037,121,Household consumption expenditure (including Non-profit institutions serving households),2
+2017,53520378666.21892,Slovakia,SVK,49037,121,Household consumption expenditure (including Non-profit institutions serving households),2
+2018,59576602976.91212,Slovakia,SVK,49037,121,Household consumption expenditure (including Non-profit institutions serving households),2
+2019,59584057651.701866,Slovakia,SVK,49037,121,Household consumption expenditure (including Non-profit institutions serving households),2
+2020,61414542697.78227,Slovakia,SVK,49037,121,Household consumption expenditure (including Non-profit institutions serving households),2
+2021,67373166033.71597,Slovakia,SVK,49037,121,Household consumption expenditure (including Non-profit institutions serving households),2
+2022,70909190765.92442,Slovakia,SVK,49037,121,Household consumption expenditure (including Non-profit institutions serving households),2
+2000,20719405913.059208,Slovakia,SVK,49037,121,Gross Domestic Product (GDP),9
+2010,91073977541.04285,Slovakia,SVK,49037,121,Gross Domestic Product (GDP),9
+2015,88865137938.79185,Slovakia,SVK,49037,121,Gross Domestic Product (GDP),9
+2016,89891636383.91528,Slovakia,SVK,49037,121,Gross Domestic Product (GDP),9
+2017,95649966260.98016,Slovakia,SVK,49037,121,Gross Domestic Product (GDP),9
+2018,106137924015.59286,Slovakia,SVK,49037,121,Gross Domestic Product (GDP),9
+2019,105711680180.56451,Slovakia,SVK,49037,121,Gross Domestic Product (GDP),9
+2020,106731482855.49602,Slovakia,SVK,49037,121,Gross Domestic Product (GDP),9
+2021,118576482542.58336,Slovakia,SVK,49037,121,Gross Domestic Product (GDP),9
+2022,115304861561.30997,Slovakia,SVK,49037,121,Gross Domestic Product (GDP),9
+2000,354365158.36081815,Slovakia,SVK,49037,121,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2010,1428387802.815904,Slovakia,SVK,49037,121,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2015,1951371943.1094613,Slovakia,SVK,49037,121,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2016,2015712601.9333863,Slovakia,SVK,49037,121,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2017,1999441918.8152976,Slovakia,SVK,49037,121,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2018,2276713780.3160768,Slovakia,SVK,49037,121,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2019,1824103111.5607808,Slovakia,SVK,49037,121,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2020,1845636999.979772,Slovakia,SVK,49037,121,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2021,2108841348.4922144,Slovakia,SVK,49037,121,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2022,2559069563.056447,Slovakia,SVK,49037,121,"Agriculture, hunting, forestry, fishing (ISIC A-B)",10
+2000,5050066542.11454,Slovakia,SVK,49037,121,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2010,20613852140.83193,Slovakia,SVK,49037,121,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2015,20862418941.368885,Slovakia,SVK,49037,121,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2016,20102406906.69036,Slovakia,SVK,49037,121,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2017,20431225100.890625,Slovakia,SVK,49037,121,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2018,23425234151.38508,Slovakia,SVK,49037,121,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2019,24916440825.45094,Slovakia,SVK,49037,121,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2020,23706895884.94793,Slovakia,SVK,49037,121,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2021,28612074155.53055,Slovakia,SVK,49037,121,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2022,25960572856.70937,Slovakia,SVK,49037,121,"Mining, Manufacturing, Utilities (ISIC C-E)",11
+2000,18301985583.383705,Slovakia,SVK,49037,121,Total Value Added,17
+2010,82553094137.94896,Slovakia,SVK,49037,121,Total Value Added,17
+2015,80013243442.59389,Slovakia,SVK,49037,121,Total Value Added,17
+2016,81009827755.3009,Slovakia,SVK,49037,121,Total Value Added,17
+2017,85699773997.46838,Slovakia,SVK,49037,121,Total Value Added,17
+2018,95087325238.0517,Slovakia,SVK,49037,121,Total Value Added,17
+2019,94512566892.98808,Slovakia,SVK,49037,121,Total Value Added,17
+2020,95691416177.22516,Slovakia,SVK,49037,121,Total Value Added,17
+2021,105814360957.49445,Slovakia,SVK,49037,121,Total Value Added,17
+2022,102816552583.4137,Slovakia,SVK,49037,121,Total Value Added,17
